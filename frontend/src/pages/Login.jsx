@@ -124,9 +124,7 @@ export default function Login() {
           </button>
         </form>
 
-        <p style={{ textAlign: 'center', marginTop: 20, fontSize: 12, color: 'var(--text3)' }}>
-          admin / admin123 &nbsp;·&nbsp; student / student123
-        </p>
+        
       </div>
     </div>
   );
